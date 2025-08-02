@@ -159,20 +159,4 @@ Este proyecto analiza la deserción de clientes (churn) de la empresa TELECOM X 
 4. Programa de retención para clientes nuevos (< 12 meses)
 5. Revisar estrategia de precios para cargos altos
 
----
 
-## 👨‍💻 Autor
-
-- [Tu nombre]
-- GitHub: [tu-github]
-- LinkedIn: [tu-linkedin]
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
-
----
-
-⭐ Si este proyecto te fue útil, ¡no olvides darle una estrella!
